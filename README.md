@@ -1,4 +1,4 @@
 # low_rank_kernel
-Code implementation of paper "Understanding kernel size in blind deconvolution"
+Code implementation of paper "Understanding kernel size in blind deconvolution", which is accepted by WACV 2019.
 
-Coming soon after paper acceptted.
+Code coming soon... (Too busy recently...)
